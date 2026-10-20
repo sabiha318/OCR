@@ -1,0 +1,54 @@
+--- Page 1 ---
+INVOICE
+HLP Manufacturing INC
+123 45th Street
+DATE:
+October 20, 2026
+Chicago, IL 54321
+INVOICE #
+100
+(312) 555-0113
+BILL TO:
+Jozi Kos
+hlpmanufacturing@example.com
+Robotine Manufacturing
+89 Pacific Ave
+San Francisco, CA 65432
+(703) 555-0157
+CUSTOM MACHINE PARTS MANUFACTURING
+DESCRIPTION
+ 
+AMOUNT
+Custom machine parts
+2,250.00
+$                             
+Injection mold tools
+1,250.00
+$                             
+Steel alloy sheets
+3,000.00
+$                             
+Machining services
+4,500.00
+$                             
+Quality inspection
+250.00
+$                                
+SUBTOTAL
+11,250.00
+$                           
+TAX RATE
+0.00%
+Make all checks payable to HLP Manufacturing INC.
+SALES TAX
+-
+$                                     
+If you have any questions concerning this invoice contact 
+Angela at (312) 555-0113 or angela@example.com
+OTHER
+-
+$                                     
+THANK YOU FOR YOUR BUSINESS!
+TOTAL
+11,250.00
+$                          

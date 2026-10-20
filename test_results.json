@@ -1,0 +1,10 @@
+[
+  {
+    "file": "test_files/yourfile.pdf",
+    "success": false,
+    "text": "",
+    "method": "",
+    "error": "File not found",
+    "pages": null
+  }
+]

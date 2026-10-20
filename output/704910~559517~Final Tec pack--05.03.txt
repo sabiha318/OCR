@@ -1,0 +1,1093 @@
+--- Page 1 ---
+Old Navy
+Measurement Chart - Regular; SKINNY BALLERINA
+Line Plan:
+ON Toddler/Baby Girl Denim FA21
+Flow:
+1ST FLOW-PRIORITY
+Master Style:
+559517; NEW OPP PULL-ON SKINNY
+JEAN
+Product Team:
+ON Toddler/Baby Girl Denim
+Area:
+EB
+NEW OPP PULL-ON SKINNY JEAN -
+RIVER INDIGO
+Product
+Description:
+Product Status:
+Adopted
+Product Type:
+Pant
+Theme:
+BOM #:
+000592584
+Tech Designer:
+Lara, Aurora
+Designer:
+Harper, Emily
+Sourcing Office:
+India
+Merch Number(s): 704910 (Global, Regular);
+Vendor Collaboration:
+Vendor:
+REFAT GARMENTS LIMITED (1002734)
+Factory:
+Grade Rule:
+Old Navy Toddler Woven Numeric - Fall 21
+Forward
+Block:
+MC Last Mod:
+Mar 5, 2021 4:56 PM
+PST
+ 
+Woven; 0-3 months - 6T; Base (18-24 months)
+MC Status:
+Final
+Comments:
+FALL 21 FORWARD UPDATED DATA BASE
+UOM:
+Inches
+2T
+3T
+4T
+5T
+POM
+Description
+Add'l
+Comments
+Variation
+QC
+Tol(-)
+Tol(+)
+12-18
+months
+18-24
+months
+1187
+Waist Extended
+Yes
+3/8
+3/8
+10 3/8
+10 3/4
+11 1/8
+11 1/2
+11 7/8
+12 1/4
+1191
+Waist Relaxed - Straight
+Yes
+3/8
+3/8
+9 3/8
+9 3/4
+10 1/8
+10 1/2
+10 7/8
+11 1/4
+1185
+Waistband Height
+999
+999
+1 1/4
+1 1/4
+1 1/4
+1 1/4
+1 1/4
+1 1/4
+1356
+Front Rise to Top Edge
+Yes
+1/4
+1/4
+6 3/4
+7
+7 1/4
+7 1/4
+7 1/2
+7 3/4
+1357
+Back Rise to Top Edge
+Yes
+1/4
+1/4
+9 1/2
+9 3/4
+10
+10
+10 1/4
+10 1/2
+1367
+J-Stitch Length to Bottom of Waistband
+1/8
+1/8
+3
+3
+3
+3
+3
+3 1/2
+1369
+J-Stitch Width
+999
+999
+1 1/8
+1 1/8
+1 1/8
+1 1/8
+1 1/8
+1 1/8
+1206
+Low Hip Position from_
+WAIST SEAM
+999
+999
+3
+3
+3
+3
+3
+3
+1215
+Low Hip 3-Point Measurement
+Yes
+3/8
+3/8
+10 1/8
+10 1/2
+10 7/8
+11 1/4
+11 5/8
+12
+1378
+Thigh
+1" from Rise
+Seam
+Y
+1/4
+1/4
+5
+5 1/4
+5 1/2
+5 3/4
+6
+6 1/4
+1379
+Knee Position from Rise Seam
+0
+0
+4 3/4
+5 1/2
+6 1/2
+7 1/2
+8 1/2
+9 1/2
+1380
+Knee
+Skinny
+1/4
+1/4
+3 3/4
+4
+4 1/4
+4 3/8
+4 5/8
+4 3/4
+1250
+Leg Opening
+Straight
+Yes
+1/4
+1/4
+3 1/2
+3 3/4
+3 7/8
+4
+4 1/4
+4 1/2
+1384
+Inseam
+Pant
+Y
+1/2
+1/2
+9 1/4
+10 3/4
+12 5/8
+14 1/2
+16 3/8
+18 1/4
+1553
+Yoke Height at Center
+FROM WAIST
+SEAM
+1/8
+1/8
+1 3/4
+1 3/4
+1 3/4
+1 3/4
+1 3/4
+1 3/4
+1554
+Yoke Height at Side
+FROM WAIST
+SEAM
+1/8
+1/8
+3/8
+3/8
+3/8
+3/8
+3/8
+3/8
+1590
+Pocket Opening Horizontal Along Waist
+NON
+FUNCTIONAL
+Front - Scoop
+1/8
+1/8
+2 1/2
+2 1/2
+2 5/8
+2 5/8
+2 3/4
+2 3/4
+1591
+Pocket Opening Vertical Along Sideseam
+NON
+FUNCTIONAL
+Front - Scoop
+1/8
+1/8
+1 1/2
+1 1/2
+1 5/8
+1 5/8
+1 3/4
+1 3/4
+1565
+Pocket Height at Center
+Back Pocket
+1/8
+1/8
+3 1/8
+3 3/8
+3 1/2
+3 1/2
+3 5/8
+3 5/8
+1566
+Pocket Height at Side
+Back Pocket
+1/8
+1/8
+2 1/2
+2 3/4
+2 7/8
+2 7/8
+3
+3
+1567
+Pocket Width at Top
+Back Pocket
+1/8
+1/8
+3
+3 1/4
+3 1/2
+3 1/2
+3 3/4
+3 3/4
+1568
+Pocket Width at Bottom
+Back Pocket
+1/8
+1/8
+2 1/2
+2 3/4
+3
+3
+3 1/4
+3 1/4
+1659
+Pocket Placement Vertical from Yoke Seam
+at Center Corner
+Back Pocket
+999
+999
+5/8
+5/8
+5/8
+5/8
+5/8
+5/8
+1661
+Pocket Placement Vertical from Yoke Seam
+at Side
+Back Pocket
+999
+999
+7/8
+7/8
+7/8
+7/8
+7/8
+7/8
+1521
+Cord Stitch Length
+FROM WAIST
+SEAM
+999
+999
+4
+4
+4 1/4
+4 1/4
+4 1/2
+4 1/2
+Generated Date/Time: Mar 15, 2021 3:26:41 PM PDT
+Company Confidential, Gap Inc.
+Page 1 of 13
+
+--- Page 2 ---
+Old Navy
+QA Base Size - Regular; SKINNY BALLERINA
+Line Plan:
+ON Toddler/Baby Girl Denim FA21
+Flow:
+1ST FLOW-PRIORITY
+Master Style:
+559517; NEW OPP PULL-ON SKINNY
+JEAN
+Product Team:
+ON Toddler/Baby Girl Denim
+Area:
+EB
+NEW OPP PULL-ON SKINNY JEAN -
+RIVER INDIGO
+Product
+Description:
+Product Status:
+Adopted
+Product Type:
+Pant
+Theme:
+BOM #:
+000592584
+Tech Designer:
+Lara, Aurora
+Designer:
+Harper, Emily
+Sourcing Office:
+India
+Merch Number(s): 704910 (Global, Regular);
+Vendor Collaboration:
+Vendor:
+REFAT GARMENTS LIMITED (1002734)
+Factory:
+Grade Rule:
+Old Navy Toddler Woven Numeric - Fall 21
+Forward
+Block:
+MC Last Mod:
+Mar 5, 2021 4:56 PM
+PST
+ 
+Woven; 0-3 months - 6T; Base (18-24 months)
+MC Status:
+Final
+Comments:
+FALL 21 FORWARD UPDATED DATA BASE
+UOM:
+Inches
+POM
+Description
+Add'l
+Comments
+Variation
+QC
+Tol(-)
+Tol(+)
+18-24
+months
+1187
+Waist Extended
+Yes
+3/8
+3/8
+10 3/4
+1191
+Waist Relaxed - Straight
+Yes
+3/8
+3/8
+9 3/4
+1185
+Waistband Height
+999
+999
+1 1/4
+1356
+Front Rise to Top Edge
+Yes
+1/4
+1/4
+7
+1357
+Back Rise to Top Edge
+Yes
+1/4
+1/4
+9 3/4
+1367
+J-Stitch Length to Bottom of Waistband
+1/8
+1/8
+3
+1369
+J-Stitch Width
+999
+999
+1 1/8
+1206
+Low Hip Position from_
+WAIST SEAM
+999
+999
+3
+1215
+Low Hip 3-Point Measurement
+Yes
+3/8
+3/8
+10 1/2
+1378
+Thigh
+1" from Rise
+Seam
+Y
+1/4
+1/4
+5 1/4
+1379
+Knee Position from Rise Seam
+0
+0
+5 1/2
+1380
+Knee
+Skinny
+1/4
+1/4
+4
+1250
+Leg Opening
+Straight
+Yes
+1/4
+1/4
+3 3/4
+1384
+Inseam
+Pant
+Y
+1/2
+1/2
+10 3/4
+1553
+Yoke Height at Center
+FROM WAIST
+SEAM
+1/8
+1/8
+1 3/4
+1554
+Yoke Height at Side
+FROM WAIST
+SEAM
+1/8
+1/8
+3/8
+1590
+Pocket Opening Horizontal Along Waist
+NON
+FUNCTIONAL
+Front - Scoop
+1/8
+1/8
+2 1/2
+1591
+Pocket Opening Vertical Along Sideseam
+NON
+FUNCTIONAL
+Front - Scoop
+1/8
+1/8
+1 1/2
+1565
+Pocket Height at Center
+Back Pocket
+1/8
+1/8
+3 3/8
+1566
+Pocket Height at Side
+Back Pocket
+1/8
+1/8
+2 3/4
+1567
+Pocket Width at Top
+Back Pocket
+1/8
+1/8
+3 1/4
+1568
+Pocket Width at Bottom
+Back Pocket
+1/8
+1/8
+2 3/4
+1659
+Pocket Placement Vertical from Yoke Seam
+at Center Corner
+Back Pocket
+999
+999
+5/8
+1661
+Pocket Placement Vertical from Yoke Seam
+at Side
+Back Pocket
+999
+999
+7/8
+1521
+Cord Stitch Length
+FROM WAIST
+SEAM
+999
+999
+4
+Generated Date/Time: Mar 15, 2021 3:26:41 PM PDT
+Company Confidential, Gap Inc.
+Page 2 of 13
+
+--- Page 3 ---
+Old Navy
+Sketches - Front
+Line Plan:
+ON Toddler/Baby Girl Denim FA21
+Flow:
+1ST FLOW-PRIORITY
+Master Style:
+559517; NEW OPP PULL-ON SKINNY
+JEAN
+Product Team:
+ON Toddler/Baby Girl Denim
+Area:
+EB
+NEW OPP PULL-ON SKINNY JEAN -
+RIVER INDIGO
+Product
+Description:
+Product Status:
+Adopted
+Product Type:
+Pant
+Theme:
+704910 (Global, Regular);
+Vendor Collaboration:
+Sourcing Office:
+India
+Merch
+Number(s):
+Vendor:
+REFAT GARMENTS LIMITED (1002734)
+Factory:
+Comments:
+Sketch View Last Mod: Mar 15, 2021 3:24 PM PDT
+Generated Date/Time: Mar 15, 2021 3:26:41 PM PDT
+Company Confidential, Gap Inc.
+Page 3 of 13
+
+--- Page 4 ---
+Old Navy
+Sketches - Front Detail 1
+Line Plan:
+ON Toddler/Baby Girl Denim FA21
+Flow:
+1ST FLOW-PRIORITY
+Master Style:
+559517; NEW OPP PULL-ON SKINNY
+JEAN
+Product Team:
+ON Toddler/Baby Girl Denim
+Area:
+EB
+NEW OPP PULL-ON SKINNY JEAN -
+RIVER INDIGO
+Product
+Description:
+Product Status:
+Adopted
+Product Type:
+Pant
+Theme:
+704910 (Global, Regular);
+Vendor Collaboration:
+Sourcing Office:
+India
+Merch
+Number(s):
+Vendor:
+REFAT GARMENTS LIMITED (1002734)
+Factory:
+Comments:
+Sketch View Last Mod: Mar 15, 2021 3:24 PM PDT
+ALL LOCKSTITCH TOPSTITCHINGS,SPI 10 UNLESS SPECIFY
+
+FALLOW BOM FOR ACTUAL TRIM/WASH AND ARTWORK
+
+See Detail Page for Waistband Construction
+
+FRONT WAIST, CUT VERTICLE GRAINLINE Cord Stitch:
+W.STRETCH INTERLINING S/N TS, 1/8” m. Waistband: . , Back Rise and Back Yoke have
+Bartack at end. S/N Chainstitch, 1/8"m. Flat Felled Seam, 2N, Chainstitch,
+
+Front Pocket:
+2N, TS, at pocket opening,
+1/16” m. 1/8” gg,
+Bartack at top and bottom
+of opening
+
+1/16” m. 3/16" gg,
+
+Back Pockets:
+
+Clean finish opening with
+SN, Chainstitch, 1/4” m.
+
+Pkt setting:
+
+2N, TS, 1/16” m. 1/8” gg,
+
+at bottom & sides,
+
+Sides extends at top corners
+(see stitch detail )
+
+Non Functional front fly.
+leave flap open.
+
+SN, TS, Fly edge, 1/16” m.
+2N ,TS, “J” Stitch,
+(see stitch detail)
+Bartack top corners.
+Front Rise has 2N TS,
+1/16" m. 3/16" gg.
+
+Inseam: :
+SN, Chainstitch, 1/8” m.
+
+Bottom Hem:
+Hem Height 3/8”
+2N, Coverstitch 1/8” gg.
+Generated Date/Time: Mar 15, 2021 3:26:41 PM PDT
+Company Confidential, Gap Inc.
+Page 4 of 13
+
+--- Page 5 ---
+Old Navy
+Sketches - Back Detail 1
+Line Plan:
+ON Toddler/Baby Girl Denim FA21
+Flow:
+1ST FLOW-PRIORITY
+Master Style:
+559517; NEW OPP PULL-ON SKINNY
+JEAN
+Product Team:
+ON Toddler/Baby Girl Denim
+Area:
+EB
+NEW OPP PULL-ON SKINNY JEAN -
+RIVER INDIGO
+Product
+Description:
+Product Status:
+Adopted
+Product Type:
+Pant
+Theme:
+704910 (Global, Regular);
+Vendor Collaboration:
+Sourcing Office:
+India
+Merch
+Number(s):
+Vendor:
+REFAT GARMENTS LIMITED (1002734)
+Factory:
+Comments:
+Sketch View Last Mod: Mar 15, 2021 3:24 PM PDT
+Old Navy TODDLER GIRLS Denim
+
+GENERIC VIEW
+FOLLOW MAIN SKETCH FOR STYLING DETAILS
+Back
+
+Front Toddler Sizes 3T, 4T & 5T
+
+All Sizes Waistband SiNceinstitel *Safety:Adjustable elastic
+
+1/8” margin must be tacked at CB for
+S/N chainstitch, 1/8” margin all sizes.
+
+S/N chainstitch, 1/8” margin, ; S/N chainstitch, 1/8 "margin,
+clean finish inside waistband clean finish inside waistband
+
+Inside Front Adjustable Encased Elastic
+(Illustration is for adjustable elastic only)
+
+Buttonhole Position Button Position
+from sideseam from buttonhole =
+
+_| | #(Unbuttoned)
+xposed elastic’ '*
+
+grading for buttonhole fiers 112"
+position
+
+*Ship garment with elastic buttoned on second buttonhole
+
+1st Buttonhole is 1/2”
+from elastic edge.
+
+=> 2S oS |< —Tumand turn with S/N
+| lockstitch elastic ends,
+1/4” margin
+
+1/2” spacing
+
+Adjustable elastic height must be 3/8” smaller than
+space between topstitching on waistband
+Generated Date/Time: Mar 15, 2021 3:26:41 PM PDT
+Company Confidential, Gap Inc.
+Page 5 of 13
+
+--- Page 6 ---
+Old Navy
+Sketches - Front Detail 2
+Line Plan:
+ON Toddler/Baby Girl Denim FA21
+Flow:
+1ST FLOW-PRIORITY
+Master Style:
+559517; NEW OPP PULL-ON SKINNY
+JEAN
+Product Team:
+ON Toddler/Baby Girl Denim
+Area:
+EB
+NEW OPP PULL-ON SKINNY JEAN -
+RIVER INDIGO
+Product
+Description:
+Product Status:
+Adopted
+Product Type:
+Pant
+Theme:
+704910 (Global, Regular);
+Vendor Collaboration:
+Sourcing Office:
+India
+Merch
+Number(s):
+Vendor:
+REFAT GARMENTS LIMITED (1002734)
+Factory:
+Comments:
+Sketch View Last Mod: Mar 15, 2021 3:24 PM PDT
+TOPSTITCHCHING LAY OUT
+3/16" gg
+1/8" gg
+1l2"gg
+1/4"gg
+1/8" gg
+1/4"m
+1/2"
+1/4'
+1/8"'gg
+Curve
+Skinry
+NAUY
+mar
+M
+Generated Date/Time: Mar 15, 2021 3:26:41 PM PDT
+Company Confidential, Gap Inc.
+Page 6 of 13
+
+--- Page 7 ---
+Old Navy
+Sketches - Side
+Line Plan:
+ON Toddler/Baby Girl Denim FA21
+Flow:
+1ST FLOW-PRIORITY
+Master Style:
+559517; NEW OPP PULL-ON SKINNY
+JEAN
+Product Team:
+ON Toddler/Baby Girl Denim
+Area:
+EB
+NEW OPP PULL-ON SKINNY JEAN -
+RIVER INDIGO
+Product
+Description:
+Product Status:
+Adopted
+Product Type:
+Pant
+Theme:
+704910 (Global, Regular);
+Vendor Collaboration:
+Sourcing Office:
+India
+Merch
+Number(s):
+Vendor:
+REFAT GARMENTS LIMITED (1002734)
+Factory:
+Comments:
+Sketch View Last Mod: Mar 15, 2021 3:24 PM PDT
+Follow Gap Inc. construction standards
+for BABY/TODDLER DENIM BOTTOMS
+Details noted on the sketch are variations
+from the standard for this style only.
+
+Vendors must review the fit of samples on
+the Old Navy Fit Forms before submission.
+
+Please Note:
+
+e This Gap Inc. baby / kids style must be produced and tested in compliance
+with all Product Safety Standards and Procedures as outlined in the Gap Inc.
+Softlines Manual. Each vendor is responsible for ensuring that all products
+made for Gap Inc. are in compliance with all applicable laws, rules, guidelines
+and regulations as well as Gap Inc’s quality and corporate standards.
+
+For further information please consult the Gap Inc. Softlines Manual (available
+online via Gap Source Library) or contact SF / S&VD Product Assessement.
+
+(CPSC Cotton Snug Fitting Sleepwear ONLY)
+
+©@ Point of Measure, designated on the Measurement Page in UPPER CASE
+comply with the Consumer Product Safety Commission Regulations for snug
+fitting cotton sleepwear. These measurements will be strictly enforced during
+inline and shipment audits. Tolerance for these measurements must not
+exceed those listed on the measurement page.
+(*PLEASE REFER TO HOW TO MEASURE MANUAL / SNUG FITTING SLEEPWEAR
+GUIDELINES (FOUND IN GAP SOURCE LIBRARY) FOR EXPLANATION OF MEA-
+SUREMENT POINTS*)
+
+(Flame Resistant Sleepwear ONLY)
+
+e@ Garment seams, fabric and decorative trims must meet or exceed the Gap, Inc.
+SOP #C001 for children’s flame resistant (FR) sleepwear. Flame resistant sleep-
+wear must be sourced with approved U.S. vendors, S&VD HK, S&VD Americas
+and S&VD Korea.
+Generated Date/Time: Mar 15, 2021 3:26:41 PM PDT
+Company Confidential, Gap Inc.
+Page 7 of 13
+
+--- Page 8 ---
+Old Navy
+Product Safety Callout
+Line Plan:
+ON Toddler/Baby Girl Denim FA21
+Flow:
+1ST FLOW-PRIORITY
+Master Style:
+559517; NEW OPP PULL-ON SKINNY
+JEAN
+Product Team:
+ON Toddler/Baby Girl Denim
+Area:
+EB
+NEW OPP PULL-ON SKINNY JEAN -
+RIVER INDIGO
+Product
+Description:
+Product Status:
+Adopted
+Product Type:
+Pant
+Theme:
+BOM #:
+000592584
+Tech Designer:
+Lara, Aurora
+Designer:
+Harper, Emily
+Sourcing Office:
+India
+Merch Number(s): 704910 (Global, Regular);
+Vendor Collaboration:
+Vendor:
+REFAT GARMENTS LIMITED (1002734)
+Factory:
+Market
+Safety Callout
+Safety Comments
+Add'l PSR Safety
+Comments
+Add'l GIS Safety Comments
+PSR Line
+Review Date
+Feb 2, 2021
+USA/CA
+Decorative and Functional Buttons: Choking
+Hazard
+Button may need to be reinforced in order to pass
+17 lbs. attachment strength requirement. Buttons
+must be attached using a lock-stitch machine
+and must meet the 17 lbs. attachment strength
+requirement.
+Generated Date/Time: Mar 15, 2021 3:26:41 PM PDT
+Company Confidential, Gap Inc.
+Page 8 of 13
+
+--- Page 9 ---
+Old Navy
+Fit Comments
+559517; NEW OPP PULL-ON
+SKINNY JEAN
+Line Plan:
+ON Toddler/Baby Girl Denim
+FA21
+Master
+Style:
+ON Toddler/Baby Girl Denim
+Area:
+EB
+NEW OPP PULL-ON SKINNY
+JEAN - RIVER INDIGO
+Flow:
+1ST FLOW-
+PRIORITY
+Product
+Description:
+Product
+Team:
+Pant
+Theme:
+Product
+Status:
+Adopted
+Product
+Type:
+Lara, Aurora
+Designer:Harper, Emily
+BOM #:
+000592584
+Tech
+Designer:
+Sourcing
+Office:
+India
+Merch
+Number(s):
+704910 (Global, Regular);
+Vendor
+Collaboration:
+Vendor:
+REFAT GARMENTS LIMITED (1002734)
+Factory:
+Mar 8, 2021
+Vendor Direct?:
+Last
+Modified:
+Vendor:
+REFAT
+GARMENTS
+LIMITED
+Market:
+Fit Comments Status:
+Comments Sent
+Division:
+ON Toddler/Baby/Newborn
+Request / Round:
+1636576 / 2
+Season:
+FA21
+Vendor Type / Fit
+Strategy:
+Fit By:
+Aurora
+Fit Session Date:
+Mar 5, 2021
+MC For Sample:
+Regular; SKINNY
+BALLERINA(Final),
+Final Fit Approval Due
+Date:
+Design and TD
+SPR Requested By:
+Lara, Aurora
+Fit Session
+Attendees:
+Request Result:
+Approved
+Fit Model:
+Dress Form
+Construction / Workmanship
+Pre-Fit Comments
+Construction/Workmanship
+Please review sample and update all construction ok as per sample.
+Fit Comments
+Fit comments have been attached to "Document Tab"
+Generated Date/Time: Mar 15, 2021 3:26:41 PM PDT
+Company Confidential, Gap Inc.
+Page 9 of 13
+
+--- Page 10 ---
+Pattern
+Pre-Fit Comments
+Pattern
+Factory used block # 673781S1 Pattern and enclosed herewith the pattern for your review and comment.
+Fit Comments
+Generated Date/Time: Mar 15, 2021 3:26:41 PM PDT
+Company Confidential, Gap Inc.
+Page 10 of 13
+
+--- Page 11 ---
+Grade
+Pre-Fit Comments
+Grade
+Sending graded nest pattern for your review and approval.
+Fit Comments
+Generated Date/Time: Mar 15, 2021 3:26:41 PM PDT
+Company Confidential, Gap Inc.
+Page 11 of 13
+
+--- Page 12 ---
+Measurement
+Pre-Fit Comments
+Measurements
+All critical measurements are within tolerance. Sending measurement verification sheet along with sample. Please review and comments.
+Fit Comments
+Generated Date/Time: Mar 15, 2021 3:26:41 PM PDT
+Company Confidential, Gap Inc.
+Page 12 of 13
+
+--- Page 13 ---
+Generated Date/Time: Mar 15, 2021 3:26:41 PM PDT
+Company Confidential, Gap Inc.
+Page 13 of 13
