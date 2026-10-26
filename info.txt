@@ -1,0 +1,3 @@
+INFO ok: 704910~559517~Final Tec pack--05.03.pdf (14943 chars) via paddleocr + pymupdf + tesseract
+
+INFO ok: TF94db67f1-b638-4ed2-a9a2-e77a9221d8db3794e846_wac-fe962b22011d.pdf (1000 chars) via pymupdf
