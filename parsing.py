@@ -3,7 +3,6 @@ import time
 from pathlib import Path
 
 from extraction import HANDLERS, extract_text
-from llm_parsing import parse_resume_hybrid
 from parsing import missing_fields
 from schemas import ExtractionResult
 
